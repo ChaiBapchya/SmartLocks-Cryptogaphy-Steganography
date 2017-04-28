@@ -1,8 +1,10 @@
 # SmartLocks-Cryptogaphy-Steganography
 
 # System Design
-[]
+[](https://github.com/ChaiBapchya/SmartLocks-Cryptogaphy-Steganography/blob/master/Pictures/System%20Design.png)
+
 # Circuit Design
+[](https://github.com/ChaiBapchya/SmartLocks-Cryptogaphy-Steganography/blob/master/Pictures/Circuit%20diagram.png)
 
 
 # Raspberry Pi 
