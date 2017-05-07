@@ -4,8 +4,10 @@
 ![](https://github.com/ChaiBapchya/SmartLocks-Cryptogaphy-Steganography/blob/master/Pictures/System%20Design.png)
 
 # Circuit Design
-![](https://github.com/ChaiBapchya/SmartLocks-Cryptogaphy-Steganography/blob/master/Pictures/Circuit%20diagram.png)
+![](https://github.com/ChaiBapchya/SmartLocks-Cryptogaphy-Steganography/blob/master/Pictures/Circuit_diagram.png)
 
+# Workflow
+![](https://github.com/ChaiBapchya/SmartLocks-Cryptogaphy-Steganography/blob/master/Pictures/Workflow%20.png)
 
 # Raspberry Pi 
 ## Bluetooth Module
